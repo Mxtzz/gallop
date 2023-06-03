@@ -1,0 +1,8 @@
+{
+  "name": "gallop",
+  "version": "0.0.",
+  "main": "index.js",
+  "author": "mxtzz",
+  "license": "MIT",
+  "private": true
+}
